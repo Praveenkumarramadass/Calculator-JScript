@@ -1,0 +1,50 @@
+body{
+    width: 100vh;
+    height: 100vh;
+    background-image: url("https://wallpapers.com/images/hd/black-and-white-math-board-zb383dm6tubx3bk2.webp");
+    margin-left: 35%;
+    color: white;
+    
+}
+h1{
+    margin-left: 90px;
+}
+.main{
+    height: 100vh;
+    width: 100vh;
+    padding: 100px;
+
+}
+#id2{
+    height: 30px;
+    width: 300px;
+    border: 2px solid red;
+    color: black;
+    text-align: center;
+    background-color: burlywood;
+}
+#result{
+    height: 30px;
+    width: 300px;
+    color: black;
+    text-align: center;
+    background-color: burlywood;
+    border: 2px solid red;
+}
+button{
+    background-color: burlywood;
+    height: 30px;
+    width: 150px;
+    border-radius: 10px;
+    border: 2px solid red;
+}
+.equals{
+    width: 300px;
+}
+#id1{
+    height: 30px;
+    width: 300px;
+    background-color: burlywood;
+    border: 2px solid red;
+    text-align: center;
+}
